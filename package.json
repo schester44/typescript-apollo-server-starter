@@ -8,7 +8,7 @@
     "start": "DEBUG=db*,api* ts-node-dev --respawn --no-notify --ignore-watch node_modules src/index.ts | pino-pretty"
   },
   "dependencies": {
-    "apollo-server-express": "^2.12.0",
+    "apollo-server-express": "^2.14.2",
     "express": "^4.17.1",
     "graphql": "^14.1.1",
     "pino-pretty": "^4.0.0",
