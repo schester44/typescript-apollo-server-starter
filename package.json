@@ -15,7 +15,7 @@
     "reflect-metadata": "^0.1.13",
     "ts-node-dev": "^1.0.0-pre.44",
     "type-graphql": "^0.17.6",
-    "typeorm": "^0.2.24"
+    "typeorm": "^0.2.25"
   },
   "devDependencies": {
     "@types/express": "^4.17.6",
